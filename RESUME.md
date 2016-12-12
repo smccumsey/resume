@@ -1,8 +1,8 @@
 ## Stephanie McCumsey
-smccumsey.github.io| 541-968-3891 | smccumsey@gmail.com
+stephaniemccumsey.com| 541-968-3891 | smccumsey@gmail.com
 
 ## Objective
-Obtain a full-time software engineering position beginning as soon as January 1st, 2017. I’m interested in …
+Obtain a full-time software engineering position. I’m interested in data engineering, data science, distributed computing, and web development. 
 
 ## Experience
 
