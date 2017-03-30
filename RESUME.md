@@ -1,9 +1,6 @@
 ## Stephanie McCumsey
 stephaniemccumsey.com| 541-968-3891 | smccumsey@gmail.com
 
-## Objective
-Obtain a full-time software engineering position. I’m interested in data engineering, data science, distributed computing, and web development. 
-
 ## Experience
 
 #### Teaching Assistant, Department of Computer Science, University of Oregon
