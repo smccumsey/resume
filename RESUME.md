@@ -16,16 +16,11 @@ Eugene,​ ​OR,​ ​February​ ​ 2017 ​ ​–​ ​Present
 
 Eugene,​ ​OR,​ ​September​ ​ 2015 ​ ​–​ ​December​ ​ 2016
 
-- Led​ ​weekly​ ​discussions​ ​to​ ​help​ ​students​ ​complete​ ​their​ ​python​ ​programming​ ​exercises​ ​(Fall​ ​ 2016 ,​ ​Intro to​ ​Programming​ ​and​ ​Problem​ ​Solving)
-- Implemented​ ​distributed​ ​algorithms​ ​using​ ​MQTT​ ​messaging​ ​protocol​ ​(Spring​ ​ 2016 ,​ ​Software Engineering)
-- Graded​ ​problems​ ​related​ ​to​ ​stream​ ​processing​ ​with​ ​Apache​ ​Spark​ ​(Winter​ ​ 2016 ,​ ​Big​ ​Data)
-- Helped​ ​students​ ​program​ ​a​ ​Raspberry​ ​Pi​ ​in​ ​Python​ ​and​ ​graded​ ​homework​ ​assignments​ ​(Fall​ ​ 2015 ,​ ​Intro to​ ​Data​ ​Science)
-
-### Summer​ ​Intern, ​Department​ ​of​ ​Computer​ ​Science, ​​​​University​ ​of​ ​Oregon
-
-Eugene,​ ​OR,​ ​Summer​ ​ 2016
-
-- Developed​ ​a​ ​website​ ​using​ ​Django​ ​for​ ​university​ ​students​ ​learning​ ​programming
+- Led​ ​weekly​ ​discussions​ ​to​ ​help​ ​students​ ​complete​ ​their​ ​python​ ​programming​ ​exercises​ ​(Fall​ ​ 2016,​ ​Intro to​ ​Programming​ ​and​ ​Problem​ ​Solving)
+- Developed​ ​a​ ​website​ ​using​ ​Django​ ​for​ ​university​ ​students​ ​learning​ ​programming (Summer 2016, Internship)
+- Implemented​ ​distributed​ ​algorithms​ ​using​ ​MQTT​ ​messaging​ ​protocol​ ​(Spring​ ​ 2016,​ ​Software Engineering)
+- Graded​ ​problems​ ​related​ ​to​ ​stream​ ​processing​ ​with​ ​Apache​ ​Spark​ ​(Winter​ ​ 2016,​ ​Big​ ​Data)
+- Helped​ ​students​ ​program​ ​a​ ​Raspberry​ ​Pi​ ​in​ ​Python​ ​and​ ​graded​ ​homework​ ​assignments​ ​(Fall​ ​ 2015,​ ​Intro to​ ​Data​ ​Science)
 
 ### Lab​ ​Assistant, ​Department​ ​of​ ​Neuroscience,​​ ​​University​ ​of​ ​Oregon
 
