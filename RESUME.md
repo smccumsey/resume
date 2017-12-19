@@ -1,6 +1,6 @@
 # STEPHANIE​ ​MCCUMSEY
 
-## stephaniemccumsey.com​ ​|​ ​ 541 - 968 - 3891 | smccumsey@gmail.com
+## smccumsey.com​ ​|​ ​ 541 - 968 - 3891 | smccumsey@gmail.com
 
 ## EXPERIENCE
 
